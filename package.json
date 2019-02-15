@@ -1,0 +1,27 @@
+{
+  "author": "Silence <silence@rpgcoin.gg>",
+  "bugs": {
+    "url": "https://github.com/RPGCoin/node-rpgcoin-txdecoder/issues"
+  },
+  "dependencies": {
+    "rpgcoinjs-lib": "github:RPGCoin/rpgcoinjs-lib#master"
+  },
+  "description": "transaction decode hex string",
+  "homepage": "https://github.com/RPGCoin/node-rpgcoin-txdecoder#readme",
+  "keywords": [
+    "rpgcoin",
+    "transaction",
+    "rawtx"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "rpgcoin-txdecoder",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RPGCoin/node-rpgcoin-txdecoder.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.2"
+}
